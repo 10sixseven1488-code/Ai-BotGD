@@ -1,0 +1,13 @@
+{
+    "geode": "v5.0.0",
+    "gd": {
+        "win": "*",
+        "android": "*",
+        "mac": "*"
+    },
+    "id": "ru.yourname.ai-driver",
+    "name": "AI Driver",
+    "version": "v0.1.0",
+    "developer": "YourName",
+    "description": "Экспериментальный бот: запоминает места смерти в уровне и постепенно учится его проходить."
+}
